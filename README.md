@@ -39,7 +39,7 @@ Create a database (example name used below: `employee_directory`):
 
 ```sql
 CREATE DATABASE employee_directory;
-
+```
 ## Getting Started
 
 ### 1) Prerequisites

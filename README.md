@@ -66,10 +66,15 @@ http://localhost:8080/employees/list
 ```
 
 Main Endpoints (MVC)
+
 •	GET  /employees/list — list employees
+
 •	GET  /employees/showFormForAdd — form to add employee
+
 •	GET  /employees/showFormForUpdate?employeeid={id} — form to update employee
+
 •	POST /employees/save — save (create/update)
+
 •	GET  /employees/delete?employeeid={id} — delete employee
 
 Author
